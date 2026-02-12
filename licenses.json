@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "key": "MADAGASCAR",
+    "type": "timed",
+    "createdAt": 1770921190449,
+    "expiresAt": 1773513190449,
+    "deviceId": null,
+    "status": "available"
+  }
+]
